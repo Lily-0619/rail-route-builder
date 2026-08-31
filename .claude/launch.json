@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "rail-route-builder",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "rail-route-builder", "run", "dev"],
+      "port": 5173
+    }
+  ]
+}

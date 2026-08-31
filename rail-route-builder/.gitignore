@@ -1,0 +1,12 @@
+node_modules/
+dist/
+outputs/
+material/
+font/
+.venv/
+__pycache__/
+*.pyc
+.env
+.dev.vars
+*.local
+.cache/
